@@ -1,0 +1,20 @@
+1)
+
+.\HelloWorld.ps1
+
+Hello, PowerShell. I am still alive.
+
+
+2)
+.\AskName.ps1
+
+What is your name?: Vader
+Hello, Vader. Welcome to PowerShell.
+
+3)
+.\ListFiles.ps1
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        3/15/2025   10:02 AM           142 HelloWorld.ps1
+-a----        3/15/2025   10:05 AM           198 AskName.ps1
